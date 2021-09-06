@@ -1,0 +1,3 @@
+name=ENUNU(&9)
+execute=.\wrapper.bat
+ustversion=1.20

@@ -1,0 +1,4 @@
+type=editplugin
+folder=ENUNU-0.1.0
+contentsdir=patch
+description=Please_install_ENUNU_first_and_then_install_this.
