@@ -18,17 +18,13 @@ This is a modified hts.py to solve it.
 ## 사용 방법
 
 반드시 ENUNU를 설치한 후에 사용해주세요.
-
 Please use this after installing ENUNU.
 
 
 
 * 다운 받은 hts.py파일을 설치된 ENUNU의 python-3.8.6-embed-amd64\Lib\site-packages\nnmnkwii\io에 있는 hts.py 파일 위에 덮어쓰기 해주세요.
-
   Replace ENUNU's python-3.8.6-embed-amd64\Lib\site-packages\nnmnkwii\io\hts.py with the downloaded hts.py.
 
 * 우타우의 자동 인스톨 기능으로 ENUNU를 설치했다면 [이 파일]()을 다운 받은 뒤, 우타우의 자동 인스톨 기능으로 설치해서 덮어쓰기 해주세요. (덮어 쓰겠냐는 대화상자에서 예(Y)를 눌러주세요.)
-
   If you installed ENUNU with the automatic installation of UTAU, you can use [this](). 
-
   Click Yes(Y) when a dialog box appears asking if you want to overwrite ENUNU.
