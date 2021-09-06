@@ -7,8 +7,7 @@ I write original sentence together in my native language (Korean).
 # hts.py patch for ENUNU-0.1.0
 
 일부 OS에서(예시: 한국어 Windows) ENUNU를 사용할 때 utf-8 형식인 hed 파일을 읽을 수 없는 오류를 해결하기 위해 수정한 파일입니다.   
-When using ENUNU on some OS (for example, Korean Windows), an error appears that the hed file in utf-8 format cannot be read.   
-This is a modified hts.py to solve it.   
+When using ENUNU on some OS (for example, Korean Windows), an error appears that the hed file in utf-8 format cannot be read. This is a modified hts.py to solve it.   
 
 
 
