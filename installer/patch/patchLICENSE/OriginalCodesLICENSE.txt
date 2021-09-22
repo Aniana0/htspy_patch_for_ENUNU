@@ -1,4 +1,4 @@
-ENUNU-0.1.0
+ENUNU
 
 https://github.com/oatsu-gh/ENUNU
 
