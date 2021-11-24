@@ -1,2 +1,0 @@
-name=ENUNU v0.2.4 (&9)
-execute=.\enunu.bat

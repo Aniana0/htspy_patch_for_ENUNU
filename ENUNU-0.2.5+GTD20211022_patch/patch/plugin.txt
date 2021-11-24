@@ -1,0 +1,2 @@
+name=ENUNU v0.2.5 (GTD 20211022-1)(&0)
+execute=.\enunu.bat

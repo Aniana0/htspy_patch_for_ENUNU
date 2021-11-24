@@ -1,4 +1,4 @@
 type=editplugin
-folder=ENUNU-0.2.4
+folder=ENUNU-0.2.5+GTD20211022
 contentsdir=patch
 description=Please_install_ENUNU_first_and_then_install_this.
